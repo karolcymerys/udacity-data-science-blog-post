@@ -2,6 +2,8 @@
 layout: default
 title: "AI in Software Development: Who uses it? Who actually trusts it?"
 ---
+![AI in usage depending on age](assets/top-image.jpg)
+
 
 # Introduction
 

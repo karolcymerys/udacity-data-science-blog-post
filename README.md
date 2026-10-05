@@ -46,7 +46,8 @@ udacity-data-science-blog-post/
 │   ├── raw_data.csv     # Original, unmodified data
 │   └── cleaned_data.csv # Cleaned/transformed dataset
 ├── analysis.ipynb       # Jupyter notebooks with performed analysis
-└── requirements.txt     # Project dependencies
+├── requirements.txt     # Project dependencies
+└── docs/                # Blog post related files
 ```
 
 ## Acknowledgements
