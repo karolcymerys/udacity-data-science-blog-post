@@ -19,7 +19,7 @@ In order to answer that question I decided to analyse survey responses from [the
 * different roles in Software Development 
 * industries
 
-## AI tools usage in different age groups
+## How much AI tools were actively used in software development by different age groups in 2025?
 
 ![AI in usage depending on age](assets/age_chart.png)
 
@@ -28,7 +28,7 @@ Clearly, there is a trend: the younger the group, the higher use of AI within th
 
 Why do you think that happens? Are younger professionalists more eager to explore new technologies? Or simply, they find work with AI more exciting? What about more experienced specialist? Why in their case level of AI adoption is on that level? Do they trust more their skills they gained over the years? 
 
-## AI tools usage in different roles
+## How much AI tools were actively used in software development by different roles in 2025?
 
 ![AI in usage depending on role](assets/role_chart.png)
 
@@ -42,7 +42,7 @@ At the end of this ranking, there are Operations with result around 40%.
 Why do we have almost 50% difference? What drives people to adopt (or not) AI tools in their day-to-day work? 
 Are there any aspects that enables (or disable) them to apply AI tools depending on role?
 
-## AI tools usage in different industries
+## How much AI tools were actively used in software development by different industries in 2025?
 
 ![AI in usage depending on industry](assets/industry_chart.png)
 
@@ -50,7 +50,7 @@ Interestingly, the highest AI tools adoption is in **Fintechs** (73%).
 In the next group (in which AI tools usage is above 60%) we can find: Software Development, Healthcare, Media, Retail, Telecommunication, Banking, Energy Transportation, Insurance and Manufacturing.
 At the end of ranking, there are Higher Education and Government.
 
-# Do we trust AI?
+# How did respondents rate the trust in AI-generated output, depending on their level of use in 2025?
 ![AI in usage depending on industry](assets/trust_chart.png)
 
 At the end, let's have a look into trust of people working in Software Development in AI-generated output.
