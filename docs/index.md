@@ -69,5 +69,4 @@ Clearly, we see that level of AI adoption depends on the level of trust. Or mayb
 # Summary
 The analysis indicates that AI adoption is quite diverse. Younger specialists are more likely to use AI than their older colleagues.
 Professional roles and industry are other factors that differentiate AI adoption.
-The most interesting finding is that people who use AI more extensively also tend to show a higher level of trust in AI-generated output. 
-
+The most interesting finding is that people who use AI more extensively also tend to show a higher level of trust in AI-generated output.
